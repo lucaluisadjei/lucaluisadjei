@@ -5,4 +5,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=lucaluisadjei)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucaLuisAdjei-blue)](https://www.linkedin.com/in/lucaluisadjei/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucaAdjei-blue)]((https://www.linkedin.com/in/luca-adjei-5303431a4/))
